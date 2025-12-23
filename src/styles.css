@@ -34,7 +34,7 @@ nav > button {
     align-items: center;
 }
 
-#content > div {
+.card {
     background-color: white;
     margin: 20px;
     padding: 20px;
