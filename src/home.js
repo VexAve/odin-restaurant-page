@@ -17,9 +17,9 @@ export default () => {
         when they can feast like an Adeptus.";
     
     content.appendChild(card);
-    content.appendChild(heading);
-    content.appendChild(image);
-    content.appendChild(paragraph);
+    card.appendChild(heading);
+    card.appendChild(image);
+    card.appendChild(paragraph);
 
     return content;
 };
